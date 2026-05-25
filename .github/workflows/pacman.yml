@@ -1,0 +1,27 @@
+name: Generate Pacman Game from GitHub Contributions
+
+on:
+  # Se ejecuta automáticamente cada 24 horas
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Te permite ejecutarlo manualmente cuando quieras desde la pestaña Actions
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # Genera el juego de Pacman basado en tus contribuciones
+      - name: generate-pacman-from-github-contributions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: pacman-contribution-graph.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          # Nota: Dependiendo de la acción exacta de Pacman que uses (ej. jasonlong o lowlighter),
+          # los parámetros pueden variar. Si usas la versión clásica de github-action-pacman:
