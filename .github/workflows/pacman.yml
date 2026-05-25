@@ -22,9 +22,10 @@ jobs:
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
       - name: Subir a la rama pacman-output
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4.1.0
         with:
           target_branch: pacman-output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
