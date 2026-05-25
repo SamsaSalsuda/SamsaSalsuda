@@ -36,10 +36,6 @@
 
 <br />
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/SamsaSalsuda/SamsaSalsuda@pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/SamsaSalsuda/SamsaSalsuda@pacman-output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://cdn.jsdelivr.net/gh/SamsaSalsuda/SamsaSalsuda@pacman-output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/SamsaSalsuda/SamsaSalsuda@pacman-output/pacman-contribution-graph-dark.svg" width="100%" alt="pacman contribution graph" />
+</p>
