@@ -7,16 +7,6 @@
 <br />
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamsaSalsuda/SamsaSalsuda/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamsaSalsuda/SamsaSalsuda/pacman-output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SamsaSalsuda/SamsaSalsuda/pacman-output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=ts,py,aws" height="60" alt="Skills" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="jira logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo" />
@@ -42,4 +32,14 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SamsaSalsuda&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamsaSalsuda/SamsaSalsuda/pacman-output/pacman-contribution-graph-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamsaSalsuda/SamsaSalsuda/pacman-output/pacman-contribution-graph.svg?v=1">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SamsaSalsuda/SamsaSalsuda/pacman-output/pacman-contribution-graph.svg?v=1">
+  </picture>
 </div>
