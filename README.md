@@ -1,4 +1,4 @@
-<h1 align="center">wsg!</h1>
+<h1 align="center">Hey :DD!</h1>
 <div align="center">
   <img height="200" alt="Lain" src="https://github.com/user-attachments/assets/c553df5f-ae5e-4ae6-a7d0-0a34a9ce89c2" />
 </div>
