@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/6fdf0a61-63a7-46e8-b77d-38a8f88e7456
 <h1 align="center">Ayo, wsg!</h1>
 
 <div align="center">
