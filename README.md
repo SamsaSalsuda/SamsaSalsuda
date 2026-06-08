@@ -53,6 +53,7 @@
 </div>
 <br />
 
+</picture>
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/SamsaSalsuda/SamsaSalsuda/pacman-output/bomberman-contribution-graph-dark.svg" />
