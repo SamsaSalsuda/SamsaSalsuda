@@ -3,7 +3,7 @@ https://github.com/user-attachments/assets/6fdf0a61-63a7-46e8-b77d-38a8f88e7456
 <h1 align="center">Ayo, wsg!</h1>
 
 <div align="center">
-  <img height="200" alt="Lain" src="https://github.com/user-attachments/assets/0d7d920c-d44e-4281-a915-a1d3ff89b1b5" />
+  <img height="200" alt="Lain" src="https://github.com/user-attachments/assets/4af4adbd-8559-4021-aa82-9bbfa7b8d776"
 </div>
 
 
