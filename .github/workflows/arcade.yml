@@ -1,7 +1,7 @@
 name: Generate arcade animation
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -13,12 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - name: generate bomberman-contribution-graph.svg
+      - name: generate pacman and bomberman contribution graphs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'bomberman'
-      - name: push bomberman-contribution-graph.svg to the output branch
+          games: 'pacman,bomberman'
+      - name: push SVGs to pacman-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: pacman-output
