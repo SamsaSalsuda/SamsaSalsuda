@@ -1,7 +1,7 @@
 <h1 align="center">Ayo, wsg! 👋</h1>
 
 <p align="center">
-  <b>Samsa (J)</b> — Cybersecurity Engineer in training 🛡️<br />
+  <b>I'm a Cybersecurity Engineer in training<br />
   Building automations with <b>n8n</b> and AI, and ricing <b>CachyOS / Arch + KDE</b> setups every now and then.<br />
   This profile is my logbook for university projects and personal experiments.
 </p>
