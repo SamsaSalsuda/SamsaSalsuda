@@ -1,7 +1,7 @@
-<h1 align="center">Ayo, wsg! 👋</h1>
+<h1 align="center">Ayo, wsg!</h1>
 
 <p align="center">
-  <b>I'm a Cybersecurity Engineer in training<br />
+  <b>Samsa (J)</b> — Cybersecurity Engineer in training<br />
   Building automations with <b>n8n</b> and AI, and ricing <b>CachyOS / Arch + KDE</b> setups every now and then.<br />
   This profile is my logbook for university projects and personal experiments.
 </p>
@@ -72,9 +72,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/twilio/F22F46" height="30" alt="twilio logo" />
   <img width="12" />
-  <img src="https://img.shields.io/static/v1?message=Factory%20AI&logo=robotframework&label=&color=6E56CF&logoColor=white&style=for-the-badge" height="28" alt="factory ai logo" />
+  <img src="https://img.shields.io/badge/Factory%20AI-2B2B2B?style=flat-square&logoColor=white" height="30" alt="factory ai logo" />
   <img width="12" />
-  <img src="https://img.shields.io/static/v1?message=Claude&logo=anthropic&label=&color=D97757&logoColor=white&style=for-the-badge" height="28" alt="claude logo" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="30" alt="claude logo" />
 </div>
 </details>
 
@@ -82,9 +82,9 @@
 <summary><b>Communication, Telephony & Networking</b></summary>
 <br />
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=3CX&logo=phone&label=&color=2D2D2D&logoColor=white&style=for-the-badge" height="28" alt="3cx logo" />
+  <img src="https://img.shields.io/badge/3CX-2D2D2D?style=flat-square&logoColor=white" height="30" alt="3cx logo" />
   <img width="12" />
-  <img src="https://img.shields.io/static/v1?message=Ruijie&logo=wifi&label=&color=E2231A&logoColor=white&style=for-the-badge" height="28" alt="ruijie logo" />
+  <img src="https://img.shields.io/badge/Ruijie-D30331?style=flat-square&logoColor=white" height="30" alt="ruijie logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo" />
 </div>
