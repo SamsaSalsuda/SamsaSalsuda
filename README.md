@@ -1,7 +1,7 @@
 <h1 align="center">Ayo, wsg!</h1>
 
 <p align="center">
-  <b>Samsa (J)</b> — Cybersecurity Engineer in training<br />
+  <b>Cybersecurity Engineer in training<br />
   Building automations with <b>n8n</b> and AI, and ricing <b>CachyOS / Arch + KDE</b> setups every now and then.<br />
   This profile is my logbook for university projects and personal experiments.
 </p>
@@ -82,9 +82,9 @@
 <summary><b>Communication, Telephony & Networking</b></summary>
 <br />
 <div align="center">
-  <img src="https://img.shields.io/badge/3CX-2D2D2D?style=flat-square&logoColor=white" height="30" alt="3cx logo" />
+  <img src="https://raw.githubusercontent.com/SamsaSalsuda/SamsaSalsuda/main/assets/icons/3cx.png" height="30" alt="3cx logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Ruijie-D30331?style=flat-square&logoColor=white" height="30" alt="ruijie logo" />
+  <img src="https://raw.githubusercontent.com/SamsaSalsuda/SamsaSalsuda/main/assets/icons/ruijie.png" height="30" alt="ruijie logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo" />
 </div>
