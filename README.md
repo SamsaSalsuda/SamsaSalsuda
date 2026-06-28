@@ -1,11 +1,5 @@
 <h1 align="center">Ayo, wsg!</h1>
 
-<p align="center">
-  <b>Cybersecurity Engineer in training<br />
-  Building automations with <b>n8n</b> and AI, and ricing <b>CachyOS / Arch + KDE</b> setups every now and then.<br />
-  This profile is my logbook for university projects and personal experiments.
-</p>
-
 <div align="center">
   <img height="180" alt="Lain" src="https://github.com/user-attachments/assets/4af4adbd-8559-4021-aa82-9bbfa7b8d776" />
 </div>
@@ -72,7 +66,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/twilio/F22F46" height="30" alt="twilio logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Factory%20AI-2B2B2B?style=flat-square&logoColor=white" height="30" alt="factory ai logo" />
+  <img src="https://raw.githubusercontent.com/SamsaSalsuda/SamsaSalsuda/main/assets/icons/factoryai.svg" height="30" alt="factory ai logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/claude/D97757" height="30" alt="claude logo" />
 </div>
