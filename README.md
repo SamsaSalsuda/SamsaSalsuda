@@ -115,4 +115,21 @@
 
 <br />
 
+## Activity
+## <div align="center">
+##   <img src="https://streak-stats.demolab.com?user=SamsaSalsuda&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+## </div>
 
+## <br />
+
+## <picture>
+##   <source media="(prefers-color-scheme: dark)"
+##     srcset="https://raw.githubusercontent.com/SamsaSalsuda/SamsaSalsuda/pacman-output/bomberman-contribution-graph-dark.svg" />
+##   <source media="(prefers-color-scheme: light)"
+##     srcset="https://raw.githubusercontent.com/SamsaSalsuda/SamsaSalsuda/pacman-output/bomberman-contribution-graph.svg" />
+##   <img
+##     alt="bomberman contribution graph"
+##     src="https://raw.githubusercontent.com/SamsaSalsuda/SamsaSalsuda/pacman-output/bomberman-contribution-graph-dark.svg"
+##     width="100%"
+## />
+## </picture>
